@@ -2,3 +2,5 @@ Hello world
 
 Change to check modification in tracked file
 .....................ghbjnkm
+
+change: by team mate for WI5,-3way merging
