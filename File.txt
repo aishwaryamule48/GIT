@@ -1,9 +1,11 @@
 Hello world
 
-Change to check modification in tracked file
+Change to check modification in tracked file.
 
-.....................ghbjnkm
+.....................ghbjnkm.
 
-.......sddzdgd..............fghjk
+.......sddzdgd..............fghjk.
 
-change: by team mate for WI5,-3way merging
+change: by team mate for WI5,-3way merging.
+
+change 5:>by team mate WI6,rebase
